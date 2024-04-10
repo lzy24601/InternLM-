@@ -19,7 +19,7 @@ pip install modelscope==1.9.5
 pip install sentencepiece==0.1.99
 ```
 
-### 下载**`InternLM2-Chat-1.8B` 模型**
+### 下载`InternLM2-Chat-1.8B` 模型
 
 ```python
 import os
